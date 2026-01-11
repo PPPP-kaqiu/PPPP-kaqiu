@@ -40,8 +40,8 @@ My research interests span the full **LLM stack** (pre-training, reinforcement l
 
 ### 📊 Statistics
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PPPP-kaqiu&show_icons=true&theme=vincere&hide_border=true" />
-  <img height="160em" src="https://api.star-history.com/svg?repos=PPPP-kaqiu/Awesome-Parallel-Reasoning&theme=vincere" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PPPP-kaqiu&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160em" src="https://api.star-history.com/svg?repos=PPPP-kaqiu/Awesome-Parallel-Reasoning" />
 </p>
 
 <p align="right"><i>Built with simplicity in mind.</i></p>
