@@ -1,7 +1,7 @@
 # Ziqi Wang (王梓齐)
 
 <p align="left">
-  <a href="https://ppppkaqiu.github.io/"><b>Personal Website</b></a> | 
+  <a href="https://pppp-kaqiu.github.io/ppppkaqiu.github.io/"><b>Personal Website</b></a> | 
   <a href="https://scholar.google.com/citations?user=kGYv10AAAAAJ"><b>Google Scholar</b></a> | 
   <a href="https://www.xiaohongshu.com/user/profile/6203ee8a000000001000593e"><b>Rednote</b></a>
 </p>
