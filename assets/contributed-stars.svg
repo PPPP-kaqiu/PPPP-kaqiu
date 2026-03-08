@@ -1,0 +1,11 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contributed repository stars</title>
+  <desc id="desc">Placeholder card. GitHub Actions will replace this file with live contributed repository statistics after the first workflow run.</desc>
+  <rect x="1" y="1" width="493" height="193" rx="10" fill="#ffffff" stroke="#d0d7de" />
+  <text x="24" y="36" fill="#0969da" font-size="22" font-weight="700">Contributed Repo Stars</text>
+  <text x="24" y="62" fill="#57606a" font-size="14">Auto-updated daily by GitHub Actions.</text>
+  <text x="24" y="86" fill="#57606a" font-size="14">Includes public repositories you contributed to,</text>
+  <text x="24" y="108" fill="#57606a" font-size="14">including external repositories such as Nano Agent Team.</text>
+  <line x1="24" y1="138" x2="471" y2="138" stroke="#d8dee4" />
+  <text x="24" y="165" fill="#24292f" font-size="16" font-weight="600">The first workflow run will replace this placeholder with live totals.</text>
+</svg>
